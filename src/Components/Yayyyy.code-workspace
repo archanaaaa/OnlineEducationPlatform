@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Login React"
+		},
+		{
+			"path": "..\\..\\..\\FullStackCourse\\react\\confusion"
+		},
+		{
+			"path": "..\\..\\..\\rich-text-editor"
+		},
+		{
+			"path": "..\\..\\..\\rental-frontend"
+		},
+		{
+			"path": "..\\..\\..\\bidtora-frontend"
+		},
+		{
+			"path": "..\\..\\..\\bidtora"
+		}
+	],
+	"settings": {
+		"workbench.preferredDarkColorTheme": "Visual Studio Light",
+		"workbench.colorTheme": "Default Dark+"
+	}
+}
